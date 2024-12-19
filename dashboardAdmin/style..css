@@ -1,0 +1,26 @@
+.book-detail {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.book-detail img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.book-detail h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.book-detail p {
+    font-size: 16px;
+    color: #555;
+}
